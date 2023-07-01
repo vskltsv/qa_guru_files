@@ -2,12 +2,12 @@
     "id": 2122,
     "name": "ТОО",
     "idn": "12334235566",
-    "posList": 
+    "posList": [
         {
             "id": "1995",
             "name": "asd",
             "address": "площадь Республики",
             "status": true
 
-        }
+        }]
 }
